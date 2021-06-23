@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com]
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-mobilefirst-workflow-svg-and-animation-w-md0fXuA]
 - Live Site URL: [https://adedejiadelanwa.github.io/interactive-pricing-component/]
 
 ### Built with
