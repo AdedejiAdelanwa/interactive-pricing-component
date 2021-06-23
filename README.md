@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://adedejiadelanwa.github.io/interactive-pricing-component/)
+- Solution URL: [https://your-solution-url.com]
+- Live Site URL: [https://adedejiadelanwa.github.io/interactive-pricing-component/]
 
 ### Built with
 
@@ -46,14 +46,14 @@ Users should be able to:
 
 ### Useful resources
 
-- [Stack-overflow](https://stackoverflow.com/questions/18389224/how-to-style-html5-range-input-to-have-different-color-before-and-after-slider) - The second answer (84 votes) on this thread really helped me in understanding how to change the progress colour on a range input element. I really liked this pattern and will use it going forward as it is clean and straight forward.
+- [https://stackoverflow.com/questions/18389224/how-to-style-html5-range-input-to-have-different-color-before-and-after-slider] - The second answer (84 votes) on this thread really helped me in understanding how to change the progress colour on a range input element. I really liked this pattern and will use it going forward as it is clean and straight forward.
 
 ## Author
 
-- Website - ['Deji Adelanwa](https://adedejiadelanwa.github.io/web-portfolio.github.io/)
-- Frontend Mentor - [@Adasi_Jnr](https://www.frontendmentor.io/profile/AdedejiAdelanwa)
-- LinkedIn - [Adedeji Adelanwa](https://www.linkedin.com/adedejiadelanwa)
+- Website - [https://adedejiadelanwa.github.io/web-portfolio.github.io/]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/AdedejiAdelanwa]
+- LinkedIn - [https://www.linkedin.com/adedejiadelanwa]
 
 ## Acknowledgments
 
-- Shout out to - [Qausim Yussuf](https://github.com/Qausim)
+- Shout out to - [https://github.com/Qausim]
