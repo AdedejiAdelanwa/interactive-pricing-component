@@ -266,7 +266,7 @@ a:active {
 }
 
 /* Mobile */
-@media (max-width: 375px) {
+@media (max-width: 414px) {
   .wrapper {
     top: 50%;
     width: 88%;
